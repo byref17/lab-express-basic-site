@@ -1,0 +1,38 @@
+#home {
+    background-color: #b96f00;
+}
+
+#gallery {
+    margin: 0;
+    background-color: #b96f00;
+}
+
+#work {
+    background-color: #b96f00;
+}
+
+.Idea {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+img {
+    width: 25%;
+    height: 50%;
+}
+
+#about {
+    background-color: #b96f00;
+}
+
+h1 {
+    font-size: large;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    text-align: justify;
+
+}
